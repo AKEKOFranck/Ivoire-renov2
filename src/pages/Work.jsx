@@ -1,7 +1,7 @@
 import '../styles/Work.css';
 import pic1 from '../assets/f2.png';
 import pic2 from '../assets/f1.png';
-import pic3 from '../assets/f3.png';
+import pic3 from '../assets/F3.png';
 import { Link } from 'react-router-dom';
 
 export default function Work() {
