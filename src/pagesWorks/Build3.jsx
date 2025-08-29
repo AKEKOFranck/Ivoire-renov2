@@ -1,5 +1,5 @@
 import '../styles/pagesWorksStyles/Build1.css'
-import pic1 from '../assets/f3.png';
+import pic1 from '../assets/F3.png';
 
 
 export default function Build1() {
